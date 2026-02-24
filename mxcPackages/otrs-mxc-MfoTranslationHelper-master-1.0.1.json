@@ -28,10 +28,10 @@
   "ChangeLogCount": 2,
   "PackageRequired": [],
   "ModuleRequired": [],
-  "BuildDate": "2026-02-19 15:01:19",
+  "BuildDate": "2026-02-24 16:12:40",
   "BuildHost": "localhost",
   "File": "otrs-mxc-MfoTranslationHelper-master-1.0.1.opm",
-  "MD5": "8e5577551bba6b802ce4b2370fb8abe4",
-  "SHA256": "61c6f237f9dc206a8f49a0c6e5bbb8f63f18da3b7443f0261eb35bd429e27fd0",
+  "MD5": "ed8c3574e1703b76cdf38a6a4be4a6a8",
+  "SHA256": "3dae5fd0d61f247c3e3c6e008fa0d1f8d423d30e8cab788c937cfc8d96b0de36",
   "Size": 54732
 }
