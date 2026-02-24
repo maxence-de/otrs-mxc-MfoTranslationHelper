@@ -1,4 +1,5 @@
 {
+  "Type": "otrs",
   "Name": "mxc-MfoTranslationHelper",
   "Version": "1.0.1",
   "Vendor": "maxence business consulting gmbh",
@@ -28,10 +29,10 @@
   "ChangeLogCount": 2,
   "PackageRequired": [],
   "ModuleRequired": [],
-  "BuildDate": "2026-02-24 16:12:40",
+  "BuildDate": "2026-02-24 18:45:56",
   "BuildHost": "localhost",
   "File": "otrs-mxc-MfoTranslationHelper-master-1.0.1.opm",
-  "MD5": "ed8c3574e1703b76cdf38a6a4be4a6a8",
-  "SHA256": "3dae5fd0d61f247c3e3c6e008fa0d1f8d423d30e8cab788c937cfc8d96b0de36",
+  "MD5": "a8cbae5c2a645e4ec5421b1f7e2da018",
+  "SHA256": "701328a6c13cf7335fb9211bcc6dda2b0c8ed496508d33d378d14b6fb18e6612",
   "Size": 54732
 }
